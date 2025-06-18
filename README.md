@@ -32,6 +32,8 @@ Technologies Used
 - No VBA/Macros used (can be extended if needed)
  
 
+![Screenshot 2025-06-18 224935](https://github.com/user-attachments/assets/c45ce6e4-f9ec-4298-9302-d9119abd9427)
+
 
 
 
